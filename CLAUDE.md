@@ -23,3 +23,4 @@ Cuando sea necesario, usar las skills instaladas en este proyecto (`.agents/skil
 - **dart-best-practices** — buenas prácticas generales de Dart (estilo de código, Effective Dart, idioms del lenguaje).
 - **dart-expert** — desarrollo experto en Dart, Flutter y apps multiplataforma/móvil.
 - **flutter-apply-architecture-best-practices** — arquitectura en capas (UI, Lógica, Datos) para estructurar o refactorizar el proyecto.
+- **frontend-design** — usar siempre que haya que diseñar algo (pantallas, componentes, UI/UX).
