@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "dart-best-practices": {
+      "source": "kevmoo/dash_skills",
+      "sourceType": "github",
+      "skillPath": "skills/dart-best-practices/SKILL.md",
+      "computedHash": "00ee8d524d433b3f867a8b430c4513d765b2edebfcfaf6289a0c344d74f50e16"
+    },
+    "dart-expert": {
+      "source": "personamanagmentlayer/pcl",
+      "sourceType": "github",
+      "skillPath": "stdlib/languages/dart-expert/SKILL.md",
+      "computedHash": "51b8de96b1a8c4ecad9be3c65ff2195d77dbc96ac3b8a874615440af81d71324"
+    },
+    "flutter-apply-architecture-best-practices": {
+      "source": "flutter/agent-plugins",
+      "sourceType": "github",
+      "skillPath": "skills/flutter-apply-architecture-best-practices/SKILL.md",
+      "computedHash": "2b1b63214d6b153c50aacd4bbcb76ce91dece449de9e06f477f8aad3163d667f"
+    }
+  }
+}
